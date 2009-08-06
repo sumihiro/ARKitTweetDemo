@@ -1,0 +1,41 @@
+8
+
+dir
+5
+http://iphonearkit.googlecode.com/svn/trunk/ARKitDemo/ARKitDemo.xcodeproj
+http://iphonearkit.googlecode.com/svn
+
+
+
+2009-08-02T19:18:28.345195Z
+2
+zacwhite
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b589c08e-7f94-11de-a2e3-a34a2958ff7f
+
+project.pbxproj
+file
+
+
+
+
+2009-08-05T03:29:41.000000Z
+505fb0161931e6a4a7a1ceb3b95be3dc
+2009-08-02T19:18:28.345195Z
+2
+zacwhite
+has-props
+

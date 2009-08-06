@@ -1,0 +1,107 @@
+8
+
+dir
+5
+http://iphonearkit.googlecode.com/svn/trunk/ARKitDemo
+http://iphonearkit.googlecode.com/svn
+
+
+
+2009-08-02T19:47:05.778284Z
+3
+zacwhite
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+b589c08e-7f94-11de-a2e3-a34a2958ff7f
+
+main.m
+file
+
+
+
+
+2009-08-05T03:29:41.000000Z
+7a39395b17cab042ec90b3724f796ed3
+2009-08-02T19:18:28.345195Z
+2
+zacwhite
+
+ARKitDemo-Info.plist
+file
+
+
+
+
+2009-08-05T03:29:41.000000Z
+0b7c5cff346955b6276eb6e1438e7464
+2009-08-02T19:18:28.345195Z
+2
+zacwhite
+
+ARKitDemo_Prefix.pch
+file
+
+
+
+
+2009-08-05T03:29:41.000000Z
+2ad25ffd7ab40f9a9b8a2d2b65e70e35
+2009-08-02T19:18:28.345195Z
+2
+zacwhite
+
+Locations.txt
+file
+
+
+
+
+2009-08-05T03:29:41.000000Z
+3b258c8fadf578c272c1e18415b41c3b
+2009-08-02T19:18:28.345195Z
+2
+zacwhite
+
+ARKitDemo.xcodeproj
+dir
+
+location.png
+file
+
+
+
+
+2009-08-05T03:29:41.000000Z
+7388e2f6f9d895cf9db57998f2a0857e
+2009-08-02T19:18:28.345195Z
+2
+zacwhite
+has-props
+
+Classes
+dir
+
+MainWindow.xib
+file
+
+
+
+
+2009-08-05T03:29:41.000000Z
+b5c4fa2a17383cc3eaff1d76133f731b
+2009-08-02T19:18:28.345195Z
+2
+zacwhite
+

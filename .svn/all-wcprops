@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/3/trunk/ARKitDemo
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/ARKitDemo/main.m
+END
+ARKitDemo-Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/ARKitDemo/ARKitDemo-Info.plist
+END
+ARKitDemo_Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/ARKitDemo/ARKitDemo_Prefix.pch
+END
+Locations.txt
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/ARKitDemo/Locations.txt
+END
+location.png
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/ARKitDemo/location.png
+END
+MainWindow.xib
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/ARKitDemo/MainWindow.xib
+END
