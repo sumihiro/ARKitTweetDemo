@@ -277,6 +277,8 @@
 			<key>Layout</key>
 			<array>
 				<dict>
+					<key>BecomeActive</key>
+					<true/>
 					<key>ContentConfiguration</key>
 					<dict>
 						<key>PBXBottomSmartGroupGIDs</key>
@@ -324,13 +326,13 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
-									<integer>40</integer>
+									<integer>39</integer>
 									<integer>1</integer>
 									<integer>0</integer>
 								</array>
 							</array>
 							<key>PBXSmartGroupTreeModuleOutlineStateVisibleRectKey</key>
-							<string>{{0, 344}, {186, 610}}</string>
+							<string>{{0, 251}, {186, 610}}</string>
 						</dict>
 						<key>PBXTopSmartGroupGIDs</key>
 						<array/>
@@ -360,14 +362,12 @@
 					<key>Dock</key>
 					<array>
 						<dict>
-							<key>BecomeActive</key>
-							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
 								<string>1CE0B20306471E060097A5F4</string>
 								<key>PBXProjectModuleLabel</key>
-								<string>TweetFetchDefines.h</string>
+								<string>TweetFetchDefines_Sample.h</string>
 								<key>PBXSplitModuleInNavigatorKey</key>
 								<dict>
 									<key>Split0</key>
@@ -375,11 +375,11 @@
 										<key>PBXProjectModuleGUID</key>
 										<string>1CE0B20406471E060097A5F4</string>
 										<key>PBXProjectModuleLabel</key>
-										<string>TweetFetchDefines.h</string>
+										<string>TweetFetchDefines_Sample.h</string>
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>A4F84A82102A9FBD005402BB</string>
+										<string>A4F84A92102AA196005402BB</string>
 										<key>history</key>
 										<array>
 											<string>A476FD26102A682E0048154E</string>
@@ -400,8 +400,9 @@
 											<string>A4F84A59102A9E2D005402BB</string>
 											<string>A4F84A5A102A9E2D005402BB</string>
 											<string>A4F84A75102A9F63005402BB</string>
-											<string>A4F84A7F102A9FBD005402BB</string>
-											<string>A4F84A80102A9FBD005402BB</string>
+											<string>A4F84A88102AA196005402BB</string>
+											<string>A4F84A89102AA196005402BB</string>
+											<string>A4F84A8A102AA196005402BB</string>
 										</array>
 										<key>prevStack</key>
 										<array>
@@ -443,6 +444,13 @@
 											<string>A4F84A68102A9E2D005402BB</string>
 											<string>A4F84A6A102A9E2D005402BB</string>
 											<string>A4F84A81102A9FBD005402BB</string>
+											<string>A4F84A8B102AA196005402BB</string>
+											<string>A4F84A8C102AA196005402BB</string>
+											<string>A4F84A8D102AA196005402BB</string>
+											<string>A4F84A8E102AA196005402BB</string>
+											<string>A4F84A8F102AA196005402BB</string>
+											<string>A4F84A90102AA196005402BB</string>
+											<string>A4F84A91102AA196005402BB</string>
 										</array>
 									</dict>
 									<key>SplitCount</key>
@@ -621,7 +629,7 @@
 	<key>StatusbarIsVisible</key>
 	<true/>
 	<key>TimeStamp</key>
-	<real>271228861.75109601</real>
+	<real>271229334.81313998</real>
 	<key>ToolbarDisplayMode</key>
 	<integer>1</integer>
 	<key>ToolbarIsVisible</key>
@@ -639,9 +647,9 @@
 		<string>A4F84A83102A9FBD005402BB</string>
 		<string>A4F84A4A102A9BF5005402BB</string>
 		<string>A4F84A4B102A9BF5005402BB</string>
-		<string>1C78EAAD065D492600B07095</string>
 		<string>A476FD74102A682E0048154E</string>
 		<string>1CD10A99069EF8BA00B06720</string>
+		<string>1C78EAAD065D492600B07095</string>
 		<string>/Users/sumi/Documents/Project/iphonearkit/ARKitDemo/ARKitDemo.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
